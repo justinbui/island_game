@@ -1,2 +1,3 @@
 # island_game
-Short game written in python utilizing classes to create a state machine.
+- A short game written in Python utilizing classes to simulate a finite state machine.
+- One of the exercises from https://learnpythonthehardway.org/
